@@ -1,5 +1,6 @@
 # python_youtube
 youtube视频数据分析python
+基于Django框架搭建
 
 
 公共url地址：
